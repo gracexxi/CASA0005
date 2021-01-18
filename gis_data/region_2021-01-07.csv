@@ -1,0 +1,10 @@
+date,areaType,areaCode,areaName,cumCasesByPublishDate
+"2021-01-07",region,E12000001,North East,135747
+"2021-01-07",region,E12000006,East of England,240627
+"2021-01-07",region,E12000003,Yorkshire and The Humber,274226
+"2021-01-07",region,E12000005,West Midlands,262495
+"2021-01-07",region,E12000007,London,463539
+"2021-01-07",region,E12000008,South East,343670
+"2021-01-07",region,E12000009,South West,134933
+"2021-01-07",region,E12000004,East Midlands,207629
+"2021-01-07",region,E12000002,North West,408394
